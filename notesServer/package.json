@@ -1,0 +1,18 @@
+{
+	"name": "jsonServer",
+	"version": "1.0.0",
+	"description": "Here i will test restfulapi",
+	"main": "index.js",
+	"scripts": {
+		"test": "test",
+		"start": "json-server db.json -p 4000 -d 200"
+	},
+	"keywords": [
+		"Sasha"
+	],
+	"author": "Alexander",
+	"license": "MIT",
+	"dependencies": {
+		"json-server": "^0.16.0"
+	}
+}

@@ -1,0 +1,15 @@
+.appear {
+  transform: translateX(100%);
+  opacity: 0;
+}
+
+.appearD {
+  transform: 0;
+  opacity: 1;
+  transition: all 300ms ease-in;
+}
+
+.center {
+  margin-top: 30px;
+  text-align: center;
+}
