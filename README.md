@@ -11,5 +11,5 @@ Stack of techs
 2. Server
 * Json-server
 
-Eslint setting with Airbnb
+Eslint settings with Airbnb
 https://github.com/airbnb/javascript/tree/master/react
