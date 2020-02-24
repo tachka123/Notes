@@ -7,6 +7,7 @@ Stack of techs
 1. Client
 
 -   React
+- React-Hooks
 -   Router
 -   Redux
 -   Transition-group
